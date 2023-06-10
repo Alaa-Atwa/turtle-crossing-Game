@@ -1,4 +1,4 @@
-# turtle_corssing_Game
+# turtle_crossing_Game
 try to make the turtle cross the road without being hit by cars
 
 ### Controls:
